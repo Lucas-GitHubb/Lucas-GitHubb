@@ -15,7 +15,6 @@
 - Desarrollador Backend autodidacta y apasionado.
 - Actualmente aprendiendo más sobre C# y .NET Framework.
 - Explorando Windows Forms, WPF y desarrollo web con HTML, CSS y Bootstrap 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
